@@ -5,7 +5,7 @@
  - Chuyen nganh: Giao duc Tieu hoc
  ---
  ## CHU DE NGHIEN CUU
- Ứng dụng công nghệ trong quản lý lớp học
+ - Ứng dụng công nghệ thông tin trong quản lý lớp học
  ---
  ## DANH SACH TRICH DAN TAI LIEU
  1. ** Tai lieu 1:** BIỆN PHÁP QUẢN LÝ ỨNG DỤNG CÔNG NGHỆ THÔNG TIN TRONG DẠY HỌC Ở CÁC TRƯỜNG TIỂU HỌC TỈNH THÁI NGUYÊN ĐÁP ỨNG YÊU CẦU ĐỔI MỚI GIÁO DỤC
